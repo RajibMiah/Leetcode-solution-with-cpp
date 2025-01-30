@@ -39,17 +39,18 @@ Compile and run a specific solution:
    g++ Easy/two_sum.cpp -o two_sum
    ./two_sum
    
-##🎯 Contributions
+## 🎯 Contributions
 Feel free to contribute by adding new solutions or optimizing existing ones! Here’s how you can contribute:
 
-Fork the repository
-   Create a new branch (git checkout -b feature-new-solution)
-   Add your solution
-   Commit and push (git push origin feature-new-solution)
-   Create a pull request
-   ⭐ Let's Connect
+- Fork the repository
+   # create a new branch (git checkout -b feature-new-solution)
+   # Add your solution
+   # Commit and push (git push origin feature-new-solution)
+   # Create a pull request
+
+##⭐ Let's Connect
+
 If you find this repository helpful, consider giving it a ⭐ and following me on GitHub!
 
 Happy Coding! 🚀
 
-Copy and paste this into your `README.md` file. Let me know if you need
