@@ -43,10 +43,10 @@ Compile and run a specific solution:
 Feel free to contribute by adding new solutions or optimizing existing ones! Here’s how you can contribute:
 
 - Fork the repository
-   # create a new branch (git checkout -b feature-new-solution)
-   # Add your solution
-   # Commit and push (git push origin feature-new-solution)
-   # Create a pull request
+   ### create a new branch (git checkout -b feature-new-solution)
+   ### Add your solution
+   ### Commit and push (git push origin feature-new-solution)
+   ### Create a pull request
 
 ##⭐ Let's Connect
 
